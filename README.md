@@ -1,1 +1,2 @@
-# szemantika
+# Szemantika
+Open Toxicdetection.ipynb
